@@ -20,5 +20,7 @@ public class GreetingController {
         System.out.println("Executando a lógica com Spring MVC");
         return "ok";
     }*/
+    
+    //TESTE GIT
 
 }
